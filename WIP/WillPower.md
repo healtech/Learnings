@@ -25,3 +25,18 @@ Defensive Pessimism
 5. When and where is this obstacle most likely to occur?
 6. What can i dao to prevent the obstacle?
 7. What specific thing will i do to get back to my goal when this obstacle happens?
+
+Surfing the Urge
+===========
+1. Notice the thought, craving, or feeling
+2. Accept and attend to the inner experience
+3. Breathe and give your brain and body a chance to pause and plan
+4. Broaden your atention, and look for the action that will help you achieve your goal
+
+Willpower Rules
+===========
+1. Train your willpower physiology
+2. Forgive yourself
+3. Make friends with your future self.
+4. Predict your failure
+5. Surf the urge
