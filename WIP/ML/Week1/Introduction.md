@@ -9,4 +9,4 @@ What is Machine Learning
     - Find the relationship between input and output while given a labled data set and already know what our correct output should look like.
     - Divided by Classification and Regression problem based on the output data.
 4. Unsupervised Learning
-    - 
+    
